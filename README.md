@@ -1,2 +1,2 @@
 # hello_world
-Repository of practices.
+Estoy aprendiendo a utilizar GITHUB...
